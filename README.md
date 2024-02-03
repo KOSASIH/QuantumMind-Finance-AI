@@ -9,7 +9,8 @@ QuantumMind Finance AI revolutionizes finance with quantum computing, advanced m
 - [Our Technologies](#our-technologies)
 - [Our Challenges](#our-challenges)
 - [Contributor Guide](#contributor-guide)
-- [Tutorials](#tutorials) 
+- [Tutorials](#tutorials)
+- [Roadmap](#roadmap) 
 
 # Description 
 
@@ -411,3 +412,5 @@ print("Balance of miner_address:", balance_miner)
 ```
 
 This code implements a basic decentralized blockchain-based financial system. It includes classes for transactions, blocks, and the blockchain itself. Transactions are stored in blocks, which are linked together through cryptographic hashes. Mining is performed by finding a nonce that results in a hash with a certain number of leading zeros. The code also provides functionality for creating transactions, mining pending transactions, and checking the balance of addresses.
+
+# Roadmap
