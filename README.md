@@ -10,7 +10,8 @@ QuantumMind Finance AI revolutionizes finance with quantum computing, advanced m
 - [Our Challenges](#our-challenges)
 - [Contributor Guide](#contributor-guide)
 - [Tutorials](#tutorials)
-- [Roadmap](#roadmap) 
+- [Roadmap](#roadmap)
+- [Aknowledgement](aknowledgement.md) 
 
 # Description 
 
