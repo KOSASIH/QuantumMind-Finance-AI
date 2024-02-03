@@ -7,7 +7,8 @@ QuantumMind Finance AI revolutionizes finance with quantum computing, advanced m
 - [Description](#description)
 - [Vision And Mission](#vision-and-mission)
 - [Our Technologies](#our-technologies)
-- [Our Challenges](#our-challenges) 
+- [Our Challenges](#our-challenges)
+- [Contributor Guide](#contributor-guide) 
 
 # Description 
 
@@ -100,3 +101,79 @@ QuantumMind Finance AI addresses critical challenges within the financial indust
    - Solution: QuantumMind adopts a strategy of continuous improvement, staying ahead of the curve through regular updates and enhancements.
 
 By addressing these challenges, QuantumMind Finance AI aims to revolutionize the financial industry, providing a secure, agile, and technologically advanced framework for financial analysis and decision-making.
+
+# Contributor Guide
+
+**QuantumMind Finance AI Git Repository Contributor Guide**
+
+### Introduction
+Welcome to the QuantumMind Finance AI project! We value your contributions to our cutting-edge financial technology. Follow this guide to ensure a smooth and collaborative experience.
+
+### Getting Started
+
+1. **Fork the Repository:**
+   - Fork the QuantumMind Finance AI repository to your GitHub account.
+
+2. **Clone your Fork:**
+   - Clone the repository to your local machine using:
+     ```bash
+     git clone https://github.com/KOSASIH/QuantumMind-Finance-AI.git
+     ```
+
+3. **Create a Branch:**
+   - Create a new branch for your feature or bug fix:
+     ```bash
+     git checkout -b feature-branch
+     ```
+
+### Making Changes
+
+4. **Code and Test:**
+   - Make your changes and ensure that the existing tests pass.
+   - Write new tests if necessary.
+
+5. **Commit Changes:**
+   - Commit your changes with clear and concise messages:
+     ```bash
+     git commit -m "Your descriptive commit message"
+     ```
+
+6. **Pull Latest Changes:**
+   - Before pushing, ensure your branch is up-to-date with the main repository:
+     ```bash
+     git pull origin main
+     ```
+
+### Pushing Changes
+
+7. **Push to Your Fork:**
+   - Push your changes to your forked repository:
+     ```bash
+     git push origin feature-branch
+     ```
+
+8. **Create Pull Request:**
+   - Open a Pull Request from your branch to the main repository.
+   - Provide a detailed description of your changes.
+
+### Code Review
+
+9. **Participate in Discussions:**
+   - Respond to comments and feedback promptly.
+
+10. **Address Feedback:**
+    - Make necessary adjustments based on code review feedback.
+
+11. **Continuous Integration:**
+    - Ensure your changes pass all automated tests.
+
+### Merging
+
+12. **Squash Commits:**
+    - If necessary, squash your commits for a clean history.
+
+13. **Merge into Main:**
+    - Once approved, your changes will be merged into the main branch.
+
+### Thank You!
+Thank you for contributing to QuantumMind Finance AI. Your efforts help shape the future of financial technology. Happy coding!
