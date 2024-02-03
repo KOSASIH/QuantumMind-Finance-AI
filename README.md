@@ -1,10 +1,12 @@
 # QuantumMind-Finance-AI
+
 QuantumMind Finance AI revolutionizes finance with quantum computing, advanced machine learning, and blockchain. It ensures unparalleled security, adapts to real-time markets, and offers intuitive interactions for global compliance and continuous technological leadership.
 
 # Contents 
 
 - [Description](#description)
-- [Vision And Mission](#vision-and-mission) 
+- [Vision And Mission](#vision-and-mission)
+- [Our Technologies](#our-technologies) 
 
 # Description 
 
@@ -33,3 +35,5 @@ QuantumMind Finance AI is committed to:
 6. Establishing a decentralized, blockchain-backed financial infrastructure for transparency, traceability, and security.
 7. Collaborating with global stakeholders to ensure compliance with financial standards and regulations.
 8. Continuously advancing technology through updates, staying ahead of the curve and leading the industry into the future of finance.
+
+# Our Technologies
